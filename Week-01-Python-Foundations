@@ -1,0 +1,74 @@
+# 🐍 Python + DSA Journey
+
+## Week 1 — Python Foundations
+
+Building a strong foundation in Python before moving into programming, problem-solving, and Data Structures & Algorithms.
+
+---
+
+## 📚 Topics Covered
+
+### 1. Programming & Python Foundations
+
+- What is Programming?
+- Programming Language
+- Python
+- Programmer
+- High-Level vs Low-Level Languages
+- Machine Code
+- Python in Cybersecurity
+
+### 2. Why Learn Python?
+
+- Beginner-Friendly Syntax
+- Python Ecosystem
+- Libraries, Modules & Tools
+- Community
+- Python Applications
+- Automation
+- Cross-Platform Development
+- Python in Cybersecurity
+- Career Usefulness
+
+### 3. Python Basics & How Python Works
+
+- Source Code
+- Machine Code
+- Compiler
+- Interpreter
+- Compiler vs Interpreter
+- Python Execution
+- CPython
+- Bytecode
+- Python Virtual Machine (PVM)
+- Program Execution
+
+### 4. Python Development Environment
+
+- Python Development Environment
+- Python Installation
+- Python Versions
+- Python Interpreter
+- Python REPL
+- `.py` Files
+- Code Editor
+- IDE
+- Terminal
+- Running Python Code
+- Running `.py` Files
+- Python Program Workflow
+
+---
+
+## 🧠 Python Execution Flow
+
+```text
+Python Source Code
+        ↓
+     CPython
+        ↓
+     Bytecode
+        ↓
+       PVM
+        ↓
+Program Execution
