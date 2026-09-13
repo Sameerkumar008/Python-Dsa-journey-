@@ -1,0 +1,65 @@
+# 🐍 Python + DSA Journey
+
+## Week 2 — Python Syntax Foundations
+
+This week, I continued building my Python fundamentals by understanding the basic rules and structure of Python syntax.
+
+---
+
+## 📚 Topics Covered
+
+### 1. Python Syntax
+
+- What is Python Syntax?
+- Python Syntax Rules
+- Basic Structure of Python Code
+- How Python Interprets Code
+
+### 2. Indentation & Whitespace
+
+- What is Indentation?
+- Why Indentation Matters in Python
+- Whitespace
+- Proper Code Formatting
+- Indentation vs Whitespace
+
+### 3. Case Sensitivity
+
+- What is Case Sensitivity?
+- Uppercase vs Lowercase
+- Case-Sensitive Names in Python
+
+### 4. Statements
+
+- What is a Statement?
+- Simple Statements
+- How Python Executes Statements
+
+### 5. Expressions
+
+- What is an Expression?
+- Values and Operations
+- Basic Expression Structure
+
+### 6. Statement vs Expression
+
+- Difference Between Statements and Expressions
+- Understanding Their Roles in Python
+- Simple Examples
+
+---
+
+## 🧠 Key Learning
+
+Python uses indentation as part of its syntax structure.
+
+```text
+Python Code
+    ↓
+Syntax Rules
+    ↓
+Indentation
+    ↓
+Statements & Expressions
+    ↓
+Python Execution
