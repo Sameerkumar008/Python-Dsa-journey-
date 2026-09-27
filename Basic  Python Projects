@@ -1,0 +1,45 @@
+# Python Beginner Projects 🐍
+
+This repository contains my first Python projects created while learning
+Python programming from the basics.
+
+## Projects
+
+### 1. Student Information & Marks Calculator
+A beginner Python program that collects student information and subject
+marks and calculates:
+- Total marks
+- Average marks
+- Percentage
+
+### 2. Shopping Bill Calculator
+A simple program that calculates the amount for products based on their
+price and quantity and generates the total bill.
+
+### 3. Bitwise Calculator
+A Python program for practicing bitwise operations:
+- AND (&)
+- OR (|)
+- XOR (^)
+- NOT (~)
+- Left Shift (<<)
+- Right Shift (>>)
+
+## Concepts Practiced
+
+- input()
+- Variables
+- int() and type conversion
+- print()
+- Arithmetic operators
+- Bitwise operators
+- Basic problem-solving
+- Output tracing
+
+## Learning Goal
+
+These projects are part of my Python + DSA learning journey.
+I am building my programming fundamentals step by step through
+practice and small projects.
+
+More projects will be added as I learn new Python concepts.
