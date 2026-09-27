@@ -1,0 +1,153 @@
+🐍 Python for Cybersecurity — Week 3
+
+📌 Week Overview
+
+This week I focused on strengthening my Python fundamentals and understanding how Python code is executed.
+
+The main goal was to build a strong foundation before moving into Python-based cybersecurity scripting, automation, and security projects.
+
+---
+
+📚 Topics Completed
+
+1. Python Execution Flow
+
+- Source Code
+- Bytecode
+- PVM
+- CPU
+- CPython
+- ".py" files
+- ".pyc" files
+- "__pycache__"
+- Script Mode vs Interactive Mode
+- Interpreter & PVM
+- Execution Troubleshooting
+
+2. Python Basic Syntax & Fundamentals
+
+- Syntax Rules
+- "print()"
+- Comments
+- Variables
+- Constants
+- Identifiers
+- Keywords
+- Naming Conventions
+- Assignment
+- Dynamic Typing
+- Data Types
+- "int"
+- "float"
+- "complex"
+- "str"
+- "bool"
+- "None"
+- "type()"
+- "id()"
+- "input()"
+
+3. Type Conversion
+
+- Type Conversion
+- "int()"
+- "float()"
+- "str()"
+- "bool()"
+
+4. Operators
+
+Arithmetic Operators
+
++   -   *   /   //   %   **
+
+Comparison Operators
+
+>   <   ==   !=   >=   <=
+
+Assignment Operators
+
+=   +=   -=   *=   /=   //=   %=   **=
+
+Logical Operators
+
+and   or   not
+
+Bitwise Operators
+
+&   |   ^   ~   <<   >>
+
+---
+
+💻 Practice
+
+Basic Input and Type Conversion
+
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+
+print("Name:", name)
+print("Age:", age)
+
+Example Output
+
+Enter your name: Rahul
+Enter your age: 18
+
+Name: Rahul
+Age: 18
+
+---
+
+🧠 Logic Practice
+
+I also started practicing Python code-tracing problems without multiple-choice options.
+
+Example:
+
+a = 8
+b = 3
+
+a += b
+b *= 2
+
+result = a > b and a % b == 2
+
+print(a)
+print(b)
+print(result)
+
+What I practiced
+
+- Variable updates
+- Assignment operators
+- Arithmetic operators
+- Floor/modulus operations
+- Comparison operators
+- Logical operators
+- Step-by-step code tracing
+
+---
+
+🔐 Cybersecurity Connection
+
+These Python fundamentals will later support:
+
+- Security scripting
+- Automation
+- Log analysis
+- Network programming
+- Security tools
+- SOC automation
+- Security projects
+
+---
+
+🧠 Key Learning
+
+This week helped me understand that learning Python is not only about memorizing syntax.
+
+I am focusing on understanding:
+
+How the code works → How the output is produced → How to solve problems logically → How Python can be applied to cybersecurity.
+
