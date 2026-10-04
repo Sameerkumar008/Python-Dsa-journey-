@@ -1,0 +1,261 @@
+🐍 Python Journey
+
+Week 04 — Operators, Expressions & Strings
+
+This week focused on strengthening Python fundamentals by learning operators, expressions, statements, strings, string indexing, slicing, and commonly used string methods.
+
+Along with the concepts, I practiced the topics by writing and running Python programs to understand how they work in practice.
+
+---
+
+🔹 Operators & Expressions
+
+Membership Operators
+
+Membership operators are used to check whether a value exists in a sequence or collection.
+
+- "in"
+- "not in"
+
+Identity Operators
+
+Identity operators are used to check whether two references point to the same object.
+
+- "is"
+- "is not"
+
+Operator Precedence
+
+Operator precedence determines the order in which operators are evaluated in an expression.
+
+Understanding precedence helps predict how Python evaluates complex expressions.
+
+Expressions
+
+An expression is a combination of values, variables, operators, and function calls that Python evaluates to produce a result.
+
+Statements
+
+A statement is an instruction that Python executes.
+
+---
+
+🔹 Python Strings
+
+What is a String?
+
+A string is a sequence of characters used to represent text in Python.
+
+Example:
+
+name = "Sameer"
+
+Creating Strings
+
+Strings can be created using different types of quotation marks.
+
+Single Quotes
+
+text = 'Hello'
+
+Double Quotes
+
+text = "Hello"
+
+Triple Quotes
+
+Triple quotes can be used for multi-line strings.
+
+text = """Hello
+Python
+World"""
+
+---
+
+🔹 String Indexing
+
+Indexing is used to access individual characters from a string.
+
+Positive Indexing
+
+Positive indexing starts from "0" from the left side.
+
+Python
+012345
+
+Example:
+
+text = "Python"
+print(text[0])
+
+Negative Indexing
+
+Negative indexing starts from "-1" from the right side.
+
+Python
+-6 -5 -4 -3 -2 -1
+
+Example:
+
+text = "Python"
+print(text[-1])
+
+---
+
+🔹 String Slicing
+
+String slicing is used to extract a portion of a string.
+
+Syntax:
+
+string[start:stop:step]
+
+Example:
+
+text = "Python"
+print(text[0:3])
+
+---
+
+🔹 String Concatenation
+
+Concatenation combines two or more strings.
+
+first = "Python"
+second = "Programming"
+
+result = first + " " + second
+print(result)
+
+---
+
+🔹 String Repetition
+
+The "*" operator can be used to repeat a string.
+
+text = "Python "
+
+print(text * 3)
+
+---
+
+🔹 String Length
+
+The "len()" function returns the number of characters in a string.
+
+text = "Python"
+
+print(len(text))
+
+---
+
+🔹 String Immutability
+
+Strings in Python are immutable, meaning the original string cannot be changed after it is created.
+
+Instead of modifying the original string, Python creates a new string when a different value is assigned.
+
+---
+
+🔹 String Methods
+
+"lower()"
+
+Converts characters to lowercase.
+
+text = "PYTHON"
+print(text.lower())
+
+"upper()"
+
+Converts characters to uppercase.
+
+text = "python"
+print(text.upper())
+
+"strip()"
+
+Removes leading and trailing whitespace.
+
+text = "  Python  "
+print(text.strip())
+
+"replace()"
+
+Replaces one substring with another.
+
+text = "I like Java"
+print(text.replace("Java", "Python"))
+
+"split()"
+
+Splits a string into a list.
+
+text = "Python is easy"
+print(text.split())
+
+"join()"
+
+Joins elements of an iterable into a string.
+
+words = ["Python", "is", "powerful"]
+
+print(" ".join(words))
+
+"find()"
+
+Returns the position of the first occurrence of a specified substring.
+
+text = "Python Programming"
+
+print(text.find("Programming"))
+
+---
+
+💻 Practical Practice
+
+During this week, I practiced the concepts by writing and executing Python programs.
+
+The practical exercises helped me understand:
+
+- How operators work
+- How expressions are evaluated
+- How statements are executed
+- How strings are created
+- How indexing and slicing work
+- How strings behave as immutable objects
+- How string methods modify or process string data
+- How Python produces different outputs from different operations
+
+---
+
+🎯 Week 04 Focus
+
+The main focus of this week was to build a strong understanding of Python operators and string handling.
+
+These fundamentals will be useful for:
+
+- Problem Solving
+- Data Structures & Algorithms
+- Automation
+- Cybersecurity scripting
+- Text processing
+- Future Python projects
+
+---
+
+📈 Progress
+
+Week 01 — Python Foundations              ✅
+Week 02 — Python Syntax Foundations       ✅
+Week 03 — Python Execution & Basic Syntax ✅
+Week 04 — Operators & Strings             ✅
+
+🚀 Next
+
+Continue building Python fundamentals and gradually move toward problem-solving and Data Structures & Algorithms.
+
+---
+
+🐍 Learning Python step by step.
+Building strong fundamentals before moving deeper into DSA.
